@@ -1,7 +1,7 @@
 package currency;
 
 public class Dollor {
-	int amount = 10;
+	int amount = 5 * 2;
 
 	Dollor(int amount) {
 	}
