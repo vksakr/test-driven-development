@@ -8,7 +8,7 @@ amount 를 private 으로 만들기
 
 Money 반올림?
 
-**equals()**
+~~equals()~~
 
 hashCode()
 
