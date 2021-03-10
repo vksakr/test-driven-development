@@ -12,3 +12,6 @@ Money 반올림?
 
 hashCode()
 
+Equal null
+
+Equal object
