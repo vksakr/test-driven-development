@@ -18,7 +18,7 @@ Equal object
 
 ~~5CHF * 2 = 10CHF~~
 
-Dollar/Franc 중복
+**Dollar/Franc 중복**
 
 ~~공용 equals~~
 
@@ -26,6 +26,6 @@ Dollar/Franc 중복
 
 ~~Franc 과 Dollar 비교하기~~
 
-**통화?**
+~~통화?~~
 
 testFrancMultiplication 을 지워야 할까?
