@@ -18,7 +18,7 @@ Equal object
 
 ~~5CHF * 2 = 10CHF~~
 
-Dollar/Franc 중복
+**Dollar/Franc 중복**
 
 ~~공용 equals~~
 
