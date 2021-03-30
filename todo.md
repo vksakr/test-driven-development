@@ -18,7 +18,7 @@ Equal object
 
 ~~5CHF * 2 = 10CHF~~
 
-**Dollar/Franc 중복**
+~~Dollar/Franc 중복~~
 
 ~~공용 equals~~
 
@@ -28,4 +28,4 @@ Equal object
 
 ~~통화?~~
 
-testFrancMultiplication 제거
+~~testFrancMultiplication 제거~~
