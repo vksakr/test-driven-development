@@ -1,6 +1,10 @@
 package currency;
 
+import java.util.Hashtable;
+
 public class Bank {
+	private Hashtable<Pair, Integer> rates = new Hashtable<>();
+
 	Money reduce(Expression source, String to) {
 		return source.reduce(this, to);
 	}
@@ -9,5 +13,9 @@ public class Bank {
 		return (from.equals("CHF") && to.equals("USD"))
 			? 2
 			: 1;
+	}
+
+	void addRate(String from, String to, int rate) {
+		rates.put(new Pair(from, to), rate);
 	}
 }
